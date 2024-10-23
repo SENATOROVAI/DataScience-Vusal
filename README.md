@@ -1,1 +1,1 @@
-# DataScience-Vusal
+# Vusal
