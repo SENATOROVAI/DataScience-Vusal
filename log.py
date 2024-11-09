@@ -22,3 +22,16 @@
 # 2. Работа со средой
 # 3. Обновили скачали линтеры
 # 4. Повторили алгоритм отправки домашки
+
+# 09/11
+# ### education git command
+# # ### cd /d "C:\Users\vu.aghayev\Documents\github\DataScience-Vusal"
+# ### code .
+# ### git pull
+# ### git add .
+# ### git commit -m "hw"
+# ### git push
+#
+
+#
+#
