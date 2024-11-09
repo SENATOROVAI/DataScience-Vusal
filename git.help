@@ -1,5 +1,6 @@
 cd /d "C:\Users\vu.aghayev\Documents\github\DataScience-Vusal"
 git pull 
+git reset
 git status
 git add . 
 git status
