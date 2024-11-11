@@ -45,3 +45,5 @@
 # 12/11/24
 #
 # 1. Senatorov top 1.
+# 2. Install Kraken
+# 3. Test
